@@ -30,9 +30,17 @@ When recalculating the data to find the top five and bottom five performing scho
 
 #### Top 5
 
+Original Top 5 
+
+![original_top_5](https://github.com/estridge2014/school_district_analysis/assets/84936545/557e9050-8f2f-4ad8-9dc2-04d84cb0dcee)
+
+Updated Top 5
+
 <img width="951" alt="updated top 5" src="https://user-images.githubusercontent.com/84936545/125207818-a18a5c00-e25c-11eb-90a1-cafd746616ad.png">
 
 #### Bottom 5 
+
+Updated Bottom 5 
 
 <img width="951" alt="updated bottom5" src="https://user-images.githubusercontent.com/84936545/125207833-bcf56700-e25c-11eb-8253-6ba6ba7dfb4a.png">
 
@@ -68,6 +76,12 @@ Below are scores of schools based on school size.
 <img width="652" alt="score by school size" src="https://user-images.githubusercontent.com/84936545/125208116-a5b77900-e25e-11eb-9918-e09f441c948a.png">
 
 ## Summary 
+
+1. In the district summary, the Percent Overall Passing Reduced by 0.3%
+
+2. In the school summary, the Percent Overall Passing for Thomas High School reduced by 0.3%
+
+3. In the Top 5 school rankings, Thomas High School did not move in ranking, but the Percent Overall Passing reduced by 0.3% putting them closer to the #3 position
  
 After removing the testing scores of the 461 ninth graders at Thomas High School, passing percentages of the school did end up being lowered, but not by much (each less than 1%).
 #### Math 
@@ -87,3 +101,5 @@ After removing the testing scores of the 461 ninth graders at Thomas High School
 *Original: 90.948
 
 *Updated: 90.63
+
+It is difficult to come to a conclusion about academic dishonesty for Thomas High School 9th grade math and reading scores based on this analysis. When omitting the 9th grade scores, Thomas High School % passing math, % passing reading and % overall passing were reduced by <1%. This is not a large enough margin to determine academic dishonesty. Further tests will need to be implemented for a stronger conclusion.
