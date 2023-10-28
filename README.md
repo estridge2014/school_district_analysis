@@ -81,7 +81,6 @@ Below are scores of schools based on school size.
 
 2. In the school summary, the Percent Overall Passing for Thomas High School reduced by 0.3%
 
-3. In the Top 5 school rankings, Thomas High School did not move in ranking, but the Percent Overall Passing reduced by 0.3% putting them closer to the #3 position
  
 After removing the testing scores of the 461 ninth graders at Thomas High School, passing percentages of the school did end up being lowered, but not by much (each less than 1%).
 #### Math 
