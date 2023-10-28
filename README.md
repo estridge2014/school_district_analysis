@@ -6,15 +6,19 @@
 After previously calculating the results of the state testing scores for both the overall district and schools individually, we have become aware that the scores for the 9th grade class at Thomas High School appear to be altered. In order to address this issue, and ensure that our final analysis is as accurate as possible, we have chosen to remove those scores from the final analysis calculations.     
 
 
-### How is the district summary affected?
+## How is the district summary affected?
 
 After removing the invalid scores from the Thomas High School 9th grade class, the overall summary did not change much (likely because 9th graders at Thompson High School is such a small portion of the overall scores). Originally, the overall passing score was 65.172. After recalculating and rounding it to the nearest tenth, it is 64.9% overall passing rate. The original passing rate for reading was 85.8% and was lowered to 85.7% when the averages were recalculated. The original passing rate for math was 74.98% and was lowered to 74.8% after recalculating. 
 
+### Original district summary 
 
+![Original_district_summary](https://github.com/estridge2014/school_district_analysis/assets/84936545/e98eec6e-19d8-4826-89db-300fe5f5d4c7)
+
+### Updated district summary
 
 <img width="644" alt="Screen Shot 2021-07-11 at 3 24 16 PM" src="https://user-images.githubusercontent.com/84936545/125207770-1c06ac00-e25c-11eb-88fc-b579527e9912.png">
 
-### How is the school summary affected?
+## How is the school summary affected?
 The only school summary which was affected was Thomas High School. After removing the 9th grade scores from Thomas High School, the updated school summary data is below. 
 
 <img width="734" alt="Screen Shot 2021-07-11 at 3 26 35 PM" src="https://user-images.githubusercontent.com/84936545/125207806-7869cb80-e25c-11eb-8fd8-4a8517d7a236.png">
