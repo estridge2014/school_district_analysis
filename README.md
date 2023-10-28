@@ -1,4 +1,4 @@
-# Updated District Analysis (PyCitySchools_Challenge)
+School District Analysis 
 --------
 
 ## Overview: 
