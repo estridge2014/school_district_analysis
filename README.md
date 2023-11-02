@@ -6,7 +6,7 @@ The school board has notified Maria and her supervisor that the [students_comple
  file shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. Although the school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards and have turned to Maria for help. She has asked you to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. Once you’ve replaced the math and reading scores, Maria would like you to repeat the school district analysis that you did in this module and write up a report to describe how these changes affected the overall analysis.
 
 ### Shortened analysis description 
-Find the completed School District Analysis code [here](https://github.com/estridge2014/school_district_analysis/blob/main/PyCitySchools_Challenge.ipynb) for reference.
+School District Analysis code [here](https://github.com/estridge2014/school_district_analysis/blob/main/PyCitySchools_Challenge.ipynb) for reference.
 
 1. In the district summary, the Percent Overall Passing Reduced by 0.3%
 
@@ -32,7 +32,7 @@ Overall score average
 
 *Updated: 90.63
 
-4. After replacing the invalid scores from the Thomas High School 9th grade class with NaN, the overall summary changes slightly (likely because 9th graders at Thompson High School is such a small portion of the overall scores). Originally, the overall passing score was 65.172. After recalculating and rounding it to the nearest tenth, it is 64.9% overall passing rate. The original passing rate for reading was 85.8% and was lowered to 85.7% when the averages were recalculated. The original passing rate for math was 74.98% and was lowered to 74.8% after recalculating.
+4. After replacing the invalid scores from the Thomas High School 9th grade class with NaN, the overall summary changes slightly Originally, the overall passing score was 65.172. 
 
 ![Original_district_summary](https://github.com/estridge2014/school_district_analysis/assets/84936545/e98eec6e-19d8-4826-89db-300fe5f5d4c7)
 
