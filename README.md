@@ -46,7 +46,7 @@ It is difficult to come to a conclusion about academic dishonesty for Thomas Hig
 
 ---------------------------
 
-## Overview: 
+##  Full Non-portfolio Analysis Overview: 
 
 After previously calculating the results of the state testing scores for both the overall district and schools individually, we have become aware that the scores for the 9th grade class at Thomas High School appear to be altered. In order to address this issue, and ensure that our final analysis is as accurate as possible, we have chosen to remove those scores from the final analysis calculations and replace them with N/A.     
 
